@@ -1,0 +1,28 @@
+{
+    "graph_properties": {
+        "Number of nodes": 1908,
+        "Number of edges": 53056,
+        "Directed": false,
+        "Weighted": false,
+        "Density": 0.029163217496171557,
+        "Connected components": 22,
+        "Largest component size": 517,
+        "Isolated nodes": 0,
+        "Minimum degree": 2,
+        "Maximum degree": 129,
+        "Average degree": 55.61425576519916,
+        "Average clustering coefficient": 0.9875813471941705,
+        "Transitivity": 0.9953700861054247,
+        "Largest component diameter": 7,
+        "Largest component average path length": 4.855487082602372
+    },
+    "number_of_communities": 39,
+    "modularity": 0.9373604246909019,
+    "paper_rule_edge_counts": {
+        "Supervisor only": 2324,
+        "Common supervisor only": 37879,
+        "Same user only": 12853,
+        "Multiple rules": 0
+    },
+    "exact_github_graph_match": true
+}
